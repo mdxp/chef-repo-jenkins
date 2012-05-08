@@ -3,7 +3,7 @@
   "description": "",
   "cookbook_versions": {
     "runit": "= 0.15.1",
-    "iptables": "= 0.10.5",
+    "iptables": "= 0.10.7",
     "ohai": "= 1.0.3",
     "nginx": "= 0.101.3",
     "apache2": "= 1.2.12",

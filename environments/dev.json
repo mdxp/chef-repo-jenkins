@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "description": "",
+  "cookbook_versions": {
+    "runit": "= 0.15.1",
+    "iptables": "= 0.10.3",
+    "ohai": "= 1.0.3",
+    "nginx": "= 0.101.3",
+    "apache2": "= 1.2.12",
+    "build-essential": "= 1.0.1",
+    "bluepill": "= 1.0.5"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}

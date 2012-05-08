@@ -1,1 +1,24 @@
-Check your configuration file and ensure that your private key is readable
+{
+  "name": "dev",
+  "default_attributes": {
+  },
+  "json_class": "Chef::Environment",
+  "description": "",
+  "cookbook_versions": {
+    "jenkins": "= 0.6.4",
+    "runit": "= 0.15.1",
+    "ohai": "= 1.0.3",
+    "iptables": "= 0.10.7",
+    "java": "= 1.5.1",
+    "vim": "= 1.0.3",
+    "nginx": "= 0.101.3",
+    "dotdeb": "= 0.1.2",
+    "php-fpm": "= 0.1.1",
+    "build-essential": "= 1.0.1",
+    "apache2": "= 1.2.12",
+    "bluepill": "= 1.0.5"
+  },
+  "override_attributes": {
+  },
+  "chef_type": "environment"
+}

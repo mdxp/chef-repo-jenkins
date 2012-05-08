@@ -1,6 +1,6 @@
 {
   "name": "dev",
-  "description": "",
+  "description": "1",
   "cookbook_versions": {
     "runit": "= 0.15.1",
     "iptables": "= 0.10.5",

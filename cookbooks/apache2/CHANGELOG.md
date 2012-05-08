@@ -1,4 +1,4 @@
-## v1.1.8:
+## v1.1.10:
 
 * Some platforms with minimal installations that don't have perl won't
   have a `node['languages']['perl']` attribute, so remove the

@@ -1,7 +1,7 @@
 Description
 ===========
 
-Installs vim.
+Installs vim. Yeah!
 
 Requirements
 ============
